@@ -1,0 +1,11 @@
+{
+  "connections": [
+    {
+      "port": 9009,
+      "host": "localhost"
+    }
+  ],
+  "plugins": {
+    "./home": {}
+  }
+}

@@ -5,7 +5,9 @@
       "host": "localhost"
     }
   ],
-  "plugins": {
-    "./home": {}
-  }
+  "registrations": [
+    {
+        "plugin": "./home"
+    }
+  ]
 }
